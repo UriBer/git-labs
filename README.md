@@ -2,25 +2,25 @@
 git lab for learning git concepts and commands
 What the Lab Includes:
 
-##Core Git Operations:
+## Core Git Operations:
 •  Repository cloning and initial setup
 •  Basic operations: add, commit, push
 •  Branch management: creating branches, switching between them
 •  Creating branches from other branches
 •  Merging branches with different scenarios
 
-##Advanced Scenarios:
+## Advanced Scenarios:
 •  Conflict creation and resolution - Intentionally creating merge conflicts and learning to resolve them manually
 •  Commit history management - Using git revert to undo changes
 •  Tagging operations - Creating lightweight and annotated tags, pushing tags to remote
 
-##Best Practices:
+## Best Practices:
 •  Real-world workflow examples
 •  Troubleshooting common issues
 •  Verification steps to ensure learning
 •  Summary of all commands learned
 
-##Key Features:
+## Key Features:
 
 1. Step-by-Step Instructions - Every command is explained with expected outputs
 2. Practical Examples - Uses a real Python application that evolves throughout the lab
@@ -28,7 +28,7 @@ What the Lab Includes:
 4. Complete Workflow - From initial setup to final cleanup
 5. Comprehensive Coverage - All the operations you requested are included
 
-##How to Use the Lab:
+## How to Use the Lab:
 
 1. Prerequisites: You'll need Git installed and a GitHub account
 2. Start with Setup: Follow the initial setup to create a practice repository
